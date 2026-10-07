@@ -1,0 +1,13 @@
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\controller\AuthController.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\controller\StudentController.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\dto\AuthRequest.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\entity\Student.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\entity\User.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\repository\StudentRepository.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\repository\UserRepository.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\security\CustomUserDetailsService.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\security\JwtAuthFilter.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\security\JwtUtil.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\security\SecurityConfig.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\service\StudentService.java
+C:\Users\Vidhi Parab\OneDrive\Desktop\student-management\student-management\src\main\java\com\college\studentmanagement\StudentManagementApplication.java
